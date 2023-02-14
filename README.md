@@ -1,4 +1,4 @@
-CS144_networking_project
+# CS144_networking_project
 
 networking project using Cisco Packet Tracer including application of VLAN configuration,Switch configuration, Router configuration, Static and Dynamic routing, Dynamic Host Configuration (DHCP), 
 The Domain Name System (DNS) and Access point 
